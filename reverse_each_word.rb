@@ -1,6 +1,6 @@
 def reverse_each_word(array)
   array = []
-  array.push(:sentence)
+  array.push()
   array.each do |element|
     puts array
   end
